@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Carrot
 beetroot
+=======
+Carrot, Spinach
+>>>>>>> main
